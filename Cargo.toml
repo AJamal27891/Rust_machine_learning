@@ -1,0 +1,13 @@
+[package]
+name = "Rust_machine_learning"
+version = "0.1.0"
+edition = "2021"
+authors = ["Ahmed Gamal ahmed.data.scientist@gmail.com"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "Rust_machine_learning"
+path = "src/main.rs"
