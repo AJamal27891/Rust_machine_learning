@@ -1,2 +1,3 @@
-# Rust_machine_learning
-Practicing machine learning in Rust-lang
+# Rust Machine Learning 
+This public repository was developed to showcase Machine Learning methods using Rust and comparing it to Python from a runtime standpoint. 
+
